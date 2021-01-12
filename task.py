@@ -7,3 +7,4 @@ while True:
 print("Content-Type: text/plain")
 print("")
 print("Random value is " + str(Nilai_Acak));
+print("YOOOOOOOOOOOOOOOO")
