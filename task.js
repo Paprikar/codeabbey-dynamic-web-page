@@ -1,4 +1,4 @@
-var secret = 1753;
+var secret = 1729;
 var msg = "Random value is ";
 min = Math.ceil(10000 / secret);
 max = Math.floor(99999999 / secret);
